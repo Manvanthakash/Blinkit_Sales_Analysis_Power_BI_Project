@@ -41,6 +41,16 @@ This dashboard provides a multi-faceted view of Blinkit's business performance u
 - Slicers for dynamic filtering
 - Table Matrix for drill-downs
 
+📈 Tools & Technologies Used
+| Tool/Technology        | Purpose                                       |
+| ---------------------- | --------------------------------------------- |
+| **Microsoft Power BI** | Interactive data visualization & dashboarding |
+| **Excel**              | Data preprocessing and structuring            |
+| **DAX**                | Measures and calculated columns in Power BI   |
+| **Power Query (M)**    | Data transformation and cleaning              |
+| **Git & GitHub**       | Version control and project hosting           |
+
+
 ## ▶️ How to Use
 
 1. Open the `Blinkit Sales Analysis.pbix` file in **Power BI Desktop**.
